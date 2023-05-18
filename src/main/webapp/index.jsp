@@ -5,7 +5,7 @@
   <h3> Good luck to everbody.... </h3>
   <h3> You are doing good work .... </h3>
   <h3> it's so so good .... </h3>
-  <h3> Mehmet Kina </h3>
-  <h1> Abi kadin dogru soyluyo haa </h1>
+  <h1> Mehmet Kina </h1>
+ 
 </body>
 </html>
